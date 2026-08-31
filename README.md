@@ -10,4 +10,4 @@ Projeto de análise de dados que identifica produtos mais vendidos, faturamento 
 
 Codigo feito no Google Colab
 ##
-Matheus Santana — [[LinkedIn](https://www.linkedin.com/in/matheus-araujo-santana/)](#)
+Matheus Santana — [[LinkedIn](https://www.linkedin.com/in/matheus-araujo-santana/)]
